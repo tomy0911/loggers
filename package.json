@@ -1,0 +1,17 @@
+{
+  "name": "loggers",
+  "version": "1.0.0",
+  "description": "Desafio Loggers",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "node src/tests/benchmark.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
